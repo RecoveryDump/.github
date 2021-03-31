@@ -1,0 +1,7 @@
+{
+    "name": "Recovery Dump Workflow",
+    "description": "Recovery Dump GitHub Action CI workflow template.",
+    "filePatterns": [
+        "*.*"
+    ]
+}

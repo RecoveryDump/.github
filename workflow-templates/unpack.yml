@@ -5,11 +5,9 @@ on:
       Link:
         description: 'Enter Direct Download Link'
         required: true
-        default: '##'
       Version:
         description: 'Add Version'
         required: true
-        default: '##'
 
 env:
   LINK: ${{ github.event.inputs.Link }}
